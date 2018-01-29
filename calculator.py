@@ -57,7 +57,7 @@ def main():
     # num_1 + num_2
     add(num_1, num_2)
 
-    # num_1 + num_2
+    # num_1 - num_2
     substract(num_1, num_2)
 
     # num_1 * num_2
